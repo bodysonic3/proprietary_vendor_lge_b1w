@@ -1,1 +1,0 @@
-# proprietary_vendor_lge_b1w
