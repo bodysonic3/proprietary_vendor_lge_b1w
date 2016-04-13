@@ -292,4 +292,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/b1w-common/proprietary/lib/libalmcascore.so:system/lib/libalmcascore.so \
     vendor/lge/b1w-common/proprietary/lib/libalmcaswrap.so:system/lib/libalmcaswrap.so \
     vendor/lge/b1w-common/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
+ vendor/lge/b1w-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/b1w-common/proprietary/etc/firmware/fw_bcmdhd.bin:system/etc/firmware/fw_bcmdhd.bin
