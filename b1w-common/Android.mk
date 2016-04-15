@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter b1w d838 d837 f350 f350k f350l,$(TARGET_DEVICE)),)
+ifneq ($(filter b1w d838 d837 f350 f350k f350l f350s,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := qcrilmsgtunnel
