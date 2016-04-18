@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/b1w-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/lge/b1w-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/lge/b1w-common/proprietary/vendor/firmware/BCM4335C0_003.001.009.0055.0262.hcd:system/vendor/firmware/BCM4335C0_003.001.009.0055.0262.hcd \
+    vendor/lge/b1w-common/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/b1w-common/proprietary/bin/BCM4335C0_003.001.009.0055.0262.hcd:system/bin/BCM4335C0_003.001.009.0055.0262.hcd \
     vendor/lge/b1w-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/b1w-common/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
