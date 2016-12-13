@@ -207,9 +207,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/b1w-common/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/lge/b1w-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/lge/b1w-common/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-    vendor/lge/b1w-common/proprietary/vendor/lib/liblqe.so:system/vendor/lib/liblqe.so \
-    vendor/lge/b1w-common/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
-    vendor/lge/b1w-common/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/lge/b1w-common/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/lge/b1w-common/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/lge/b1w-common/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
@@ -229,6 +226,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/b1w-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/b1w-common/proprietary/bin/radish:system/bin/radish \
     vendor/lge/b1w-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/lge/b1w-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/b1w-common/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/b1w-common/proprietary/lib/libvss_bsp_qcci.so:system/lib/libvss_bsp_qcci.so \
     vendor/lge/b1w-common/proprietary/lib/libvss_common_core.so:system/lib/libvss_common_core.so \
